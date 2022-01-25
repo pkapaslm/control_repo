@@ -1,0 +1,7 @@
+mod 'puppetlabs-puppetdb', '7.10.0'
+mod 'puppetlabs/inifile'
+mod 'puppetlabs/postgresql'
+mod 'puppetlabs/firewall'
+mod 'puppetlabs/stdlib'
+mod 'puppetlabs/apt'
+mod 'puppetlabs/concat'
