@@ -1,4 +1,4 @@
-node default {
+node localhost {
   # Configure puppetdb and its underlying database
   class { 'puppetdb': }
   
