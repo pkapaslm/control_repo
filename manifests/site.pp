@@ -1,4 +1,4 @@
-node 'ip-10-55-45-22.us-west-2.compute.internal' {
+node 'ip-10-55-45-108.us-west-2.compute.internal' {
   # Configure puppetdb and its underlying database
   class { 'puppetdb': }
   
@@ -6,5 +6,5 @@ node 'ip-10-55-45-22.us-west-2.compute.internal' {
   class { 'puppetdb::master::config': }
 }
 
-node 'ip-10-55-45-151.us-west-2.compute.internal' {
+node 'ip-10-55-45-237.us-west-2.compute.internal' {
 }
