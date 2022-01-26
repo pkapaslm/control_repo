@@ -1,4 +1,4 @@
-mod 'puppetlabs-puppetdb', '7.8.0'
+mod 'puppetlabs-puppetdb', '7.4.0'
 mod 'puppetlabs-inifile', '5.2.0'
 mod 'puppetlabs-apt', '8.3.0'
 mod 'puppetlabs-concat', '7.1.1'
