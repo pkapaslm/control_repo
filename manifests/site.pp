@@ -5,3 +5,6 @@ node 'ip-10-55-45-108.us-west-2.compute.internal' {
   # Configure the Puppet master to use puppetdb
   class { 'puppetdb::master::config': }
 }
+
+node 'ip-10-55-45-237.us-west-2.compute.internal' {
+}
