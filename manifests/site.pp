@@ -1,4 +1,4 @@
-node 'ip-10-55-45-108.us-west-2.compute.internal' {
+node puppet.local {
   include role::master
 }
 
